@@ -5,3 +5,4 @@ com\example\rickandmorty\RickAndMortyApplication.class
 com\example\rickandmorty\models\Home.class
 com\example\rickandmorty\controllers\RestBuilder.class
 com\example\rickandmorty\models\Character.class
+com\example\rickandmorty\models\CharacterResults.class
