@@ -1,5 +1,8 @@
 package com.example.rickandmorty.models;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class Home {
     public String characters;
     public String locations;
