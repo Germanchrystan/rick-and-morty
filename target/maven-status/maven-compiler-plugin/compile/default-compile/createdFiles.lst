@@ -1,0 +1,7 @@
+com\example\rickandmorty\ServletInitializer.class
+com\example\rickandmorty\controllers\CharacterController.class
+com\example\rickandmorty\controllers\HomeController.class
+com\example\rickandmorty\RickAndMortyApplication.class
+com\example\rickandmorty\models\Home.class
+com\example\rickandmorty\controllers\RestBuilder.class
+com\example\rickandmorty\models\Character.class
