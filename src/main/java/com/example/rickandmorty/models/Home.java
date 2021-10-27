@@ -8,6 +8,11 @@ public class Home {
     public String locations;
     //public String episodes;
 
+
+    public Home() {
+
+    }
+
     public String getCharacters() {
         return characters;
     }

@@ -6,13 +6,13 @@ import java.util.List;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class CharacterResults {
-    public Character[] results;
+    public CharacterCard[] results;
 
-    public Character[] getResults() {
+    public CharacterCard[] getResults() {
         return results;
     }
 
-    public void setResults(Character[] results) {
+    public void setResults(CharacterCard[] results) {
         this.results = results;
     }
 }

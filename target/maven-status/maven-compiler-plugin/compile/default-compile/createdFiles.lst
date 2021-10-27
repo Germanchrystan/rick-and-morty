@@ -3,6 +3,8 @@ com\example\rickandmorty\controllers\CharacterController.class
 com\example\rickandmorty\controllers\HomeController.class
 com\example\rickandmorty\RickAndMortyApplication.class
 com\example\rickandmorty\models\Home.class
-com\example\rickandmorty\controllers\RestBuilder.class
-com\example\rickandmorty\models\Character.class
+com\example\rickandmorty\models\CharacterDetails.class
 com\example\rickandmorty\models\CharacterResults.class
+com\example\rickandmorty\models\CharacterOrigin.class
+com\example\rickandmorty\models\CharacterCard.class
+com\example\rickandmorty\models\Episode.class

@@ -1,12 +1,14 @@
 package com.example.rickandmorty.models;
 
-import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+public class CharacterDetails {
 
-@JsonIgnoreProperties(ignoreUnknown = true)
-public class Character {
     public int id;
     public String name;
     public String status;
     public String species;
     public String image;
+    public String type;
+    public String gender;
+
+    public CharacterOrigin origin;
 }
